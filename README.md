@@ -160,7 +160,7 @@ chroma_db/
 ├── .env.example
 └── README.md
 
-
+`
 ---
 
 # Setup
