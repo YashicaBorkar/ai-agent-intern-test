@@ -726,7 +726,11 @@ A 2–4 minute demonstration video/GIF should cover:
 4. A case where the agent refuses to guess or recommends human assistance.
 5. The evaluation suite running.
 
-<!-- Add the final GIF/video or clickable video thumbnail here. -->
+## Demo
+
+Click the thumbnail below to watch the 3-minute demonstration.
+
+[![Aster & Row AI Support Agent Demo](demo-thumbnail.png)](https://drive.google.com/file/d/1wz9ilL9oZgleuq6V1c92qSLeuwkSax0A/view?usp=sharing)
 
 ---
 
