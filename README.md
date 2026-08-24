@@ -113,7 +113,7 @@ chroma_db/
 
 ## Project Structure
 
-
+```text
 .
 ├── app/
 │   ├── agent.py
@@ -155,10 +155,11 @@ chroma_db/
 │   ├── test_retrieval.py
 │   └── test_security.py
 │
+├── main.py
 ├── requirements.txt
 ├── .env.example
 └── README.md
-  
+
 
 ---
 
@@ -716,15 +717,6 @@ Before production, I would add stronger identity verification, a real support/ti
 
 ---
 
-# Demo
-
-A 2–4 minute demonstration video/GIF should cover:
-
-1. A knowledge base question with source citation.
-2. An order lookup.
-3. A multi-turn conversation.
-4. A case where the agent refuses to guess or recommends human assistance.
-5. The evaluation suite running.
 
 ## Demo
 
@@ -744,7 +736,6 @@ The implementation intentionally favors a small number of understandable compone
 * Deterministic safety checks and evaluation assertions instead of relying only on an LLM judge.
 * A minimal customer interface instead of a polished frontend.
 
-These choices keep the system easy to inspect and test within the assignment's 6–8 hour timebox.
 
 ---
 
