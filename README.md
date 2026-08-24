@@ -159,8 +159,9 @@ chroma_db/
 ├── requirements.txt
 ├── .env.example
 └── README.md
+```
 
-`
+
 ---
 
 # Setup
